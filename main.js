@@ -13,6 +13,7 @@ console.log(reverseArray(sentence));
 
 
 
+
 //2\\
 const aliens = ['Blorgous', 'Glamyx', 'Wegord', 'SpaceKing'];
 
